@@ -1,0 +1,2 @@
+Scenario.name = Prophet
+Group.router = ProphetRouter

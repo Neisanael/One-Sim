@@ -1,0 +1,13 @@
+{
+    "java.project.outputPath": "out",
+    "java.project.referencedLibraries": [
+        "src/lib/**/*.jar"
+    ],
+    "java.debug.settings.onBuildFailureProceed": true,
+    "java.configuration.runtimes": [
+        {
+            "name": "JavaSE-1.8",
+            "path": "/usr/lib/jvm/java-1.8.0-openjdk-1.8.0.412.b06-1.fc40.x86_64",
+        }
+    ]
+}
